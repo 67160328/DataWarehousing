@@ -1,0 +1,10 @@
+﻿Metric,Before,After
+Total Rows,630,612
+Missing Emails,50,0
+Exact Duplicates,18,0
+Invalid Dates (Imputed),7,0
+Invalid Quantities,3,3
+Mismatched Amounts,51,7
+Invalid Statuses,5,5
+Outliers Capped,22,6
+Late Loads,38,38

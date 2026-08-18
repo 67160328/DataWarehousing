@@ -1,0 +1,5 @@
+run_id,batch_name,started_at,ended_at,rows_read,rows_valid,rows_rejected,rows_duplicated,rows_loaded,status
+1,orders_batch_1,2026-08-18T17:03:01.292898,2026-08-18T17:03:01.307302,420,386,34,0,386,SUCCESS
+2,orders_batch_1,2026-08-18T17:03:01.742539,2026-08-18T17:03:01.757822,420,386,34,386,0,SUCCESS
+3,orders_batch_2,2026-08-18T17:03:02.193860,2026-08-18T17:03:02.206059,424,384,40,1,383,SUCCESS
+4,orders_batch_3,2026-08-18T17:03:02.844410,2026-08-18T17:03:02.858783,424,386,38,4,382,SUCCESS
